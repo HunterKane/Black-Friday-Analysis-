@@ -1,5 +1,7 @@
 # Udacity---Project-1-Data-Science
 
+## Project Requirements 
+
 Key Steps for Project
 Feel free to be creative with your solutions, but do follow the CRISP-DM process in finding your solutions.
 
@@ -21,6 +23,8 @@ Provide a clear connection between your business questions and how the data answ
 
 Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
 Create a blog post to share your questions and insights with a non-technical audience
+
+
 
 
 # Black Friday Data Analysis
@@ -47,6 +51,8 @@ We want to know if a store had to prepare for Black Friday this information woul
 __Prepare Data__
 This data was retreived from kaggle. This dataset gives us an overview of the following categories related to Black Friday that will be used to answers the business related questions.
 
+Website for dataset: https://www.kaggle.com/sdolezel/black-friday/notebooks
+
 - Product_ID
 - Gender
 - Age
@@ -72,3 +78,9 @@ __Analyzing__
 __Final Conclusion__
 
 Concluded everything and make an accurate analysis about Black Friday related to the questions.If a store owner had access to this data analysis what would they do? What would they sell? What age group spends the most money. Apply this knowledge in a practical and realistic way.
+
+__This data anaylsis reveals a few key points a store owner could use for Black Friday__
+1: Knowing what users spend the most money.
+2: The most popular items being bought from thier store.
+3: What age group and gender are buying from their store.
+4: The type of customer's jobs that spend money at the store.
