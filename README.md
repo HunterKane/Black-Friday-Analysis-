@@ -1,39 +1,36 @@
 # Udacity---Project-1-Data-Science
 
-## Project Requirements 
+Table of Contents
 
-__Key Steps for Project__
-
-Feel free to be creative with your solutions, but do follow the CRISP-DM process in finding your solutions.
-
-1) Pick a dataset.
-
-2) Pose at least three questions related to business or real-world applications of how the data could be used.
-
-3) Create a Jupyter Notebook, using any associated packages you'd like, to:
-
-__Prepare data:__
-
-Gather necessary data to answer your questions
-Handle categorical and missing data
-Provide insight into the methods you chose and why you chose them
-Analyze, Model, and Visualize
-
-Provide a clear connection between your business questions and how the data answers them.
-
-4) Communicate your business insights:
-
-Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
-Create a blog post to share your questions and insights with a non-technical audience
-
-github repository: https://github.com/HunterKane/Udacity---Project-1-Data-Science
+1. Installation
+2. Project Motivation
+3. File Descriptions
+4. Results
+5. Licensing, Authors, and Acknowledgements
 
 
+# Installation
 
+This project can be run on Python versions 3* and some libraries will need to be installed:
 
-# Black Friday Data Analysis
+__Regular EDA amd plotting libraries__ 
 
-This notebook looks into using various Python-based data scinece libaries to discover patterns and answer important questions about Black Friday.
+- numpy
+- pandas 
+- matplotlib.pyplot 
+- seaborn 
+
+# Project Motiviation 
+
+Black Friday is a major retail shopping event that has a great impact on businesses that participate. For many businesses Black Friday helps produces enough sales to overcome lagging months and return a profit. Analyzing the data can reveal the patterns and trends found during Balck Friday. Which in turn can be used to help business owners prepare better for the shopping event. For example, what product is most sold? Once a business realizes this it can overstock those particular items encouranging more sales(Out-of-stock is a common probelms during those events). 
+
+__We want to know if a store had to prepare for Black Friday this information would be valuable:__
+
+- How much does someone typically spend on Black Friday? (Which User in this dataset)
+- What are the most popular items bought?
+- What age group and gender should be marketed to?
+- What occupations have the highest purchase rate?
+
 Method:
 1. Business understanding
 2. Prepare data
@@ -41,7 +38,14 @@ Method:
 4. Final Conclusion
 
 
-__Business Understanding__
+# Libraries need to anaylze the data effectiently 
+__Regular EDA amd plotting libraries__ 
+- numpy
+- pandas 
+- matplotlib.pyplot 
+- seaborn 
+
+# Project Motivation
 
 Black Friday has become a major retail shopping expectation. Black Friday has routinely been the busiest shopping day of the year in the United States at least since 2005. Importantly, this day represented the point in the year when retailers begin to turn a profit.
 We want to know if a store had to prepare for Black Friday this information would be valuable:
@@ -55,8 +59,8 @@ We want to know if a store had to prepare for Black Friday this information woul
 __Prepare Data__
 This data was retreived from kaggle. This dataset gives us an overview of the following categories related to Black Friday that will be used to answers the business related questions.
 
-Website for dataset: https://www.kaggle.com/sdolezel/black-friday/notebooks
 
+Insight to data:
 - Product_ID
 - Gender
 - Age
@@ -92,5 +96,10 @@ __This data anaylsis reveals a few key points a store owner could use for Black 
 
 
 # Blog Post: Black Friday Analysis 
-Power of Data Science 
-website:  https://hunter-kane-sparrow.medium.com/black-friday-analysis-82bd270f1c6d 
+Power of Data Science
+
+- Website:  https://hunter-kane-sparrow.medium.com/black-friday-analysis-82bd270f1c6d 
+
+Website for dataset: https://www.kaggle.com/sdolezel/black-friday/notebooks
+
+github repository: https://github.com/HunterKane/Udacity---Project-1-Data-Science
