@@ -21,3 +21,54 @@ Provide a clear connection between your business questions and how the data answ
 
 Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
 Create a blog post to share your questions and insights with a non-technical audience
+
+
+# Black Friday Data Analysis
+
+This notebook looks into using various Python-based data scinece libaries to discover patterns and answer important questions about Black Friday.
+Method:
+1. Business understanding
+2. Prepare data
+3. Evaluation /Analyzing
+4. Final Conclusion
+
+
+__Business Understanding__
+
+Black Friday has become a major retail shopping expectation. Black Friday has routinely been the busiest shopping day of the year in the United States at least since 2005. Importantly, this day represented the point in the year when retailers begin to turn a profit.
+We want to know if a store had to prepare for Black Friday this information would be valuable:
+
+- How much does someone typically spend on Black Friday? (Which User in this dataset)
+- What are the most popular items bought?
+- What age group and gender should be marketed to?
+- What occupations have the highest purchase rate?
+
+
+__Prepare Data__
+This data was retreived from kaggle. This dataset gives us an overview of the following categories related to Black Friday that will be used to answers the business related questions.
+
+- Product_ID
+- Gender
+- Age
+- Occupation
+- City_Category
+- Stay_In_Current_City_Years
+- Marital_Status
+- Product_Category_1
+- Product_Category_2
+
+__Evaluation/Analyzing__
+
+Initial evaluaiton will help determine what needs to be cleaned and/or removed from the dataset to accurately answer the business related questions.
+- Check for missing values
+- Check data types are correct
+- Removing unnecessary data
+
+__Analyzing__
+- Visualize the data (heatmap, clustermap, histographs etc)
+- Make conclusion based on the data
+
+
+__Final Conclusion__
+
+Concluded everything and make an accurate analysis about Black Friday related to the questions.If a store owner had access to this data analysis what would they do? What would they sell? What age group spends the most money. Apply this knowledge in a practical and realistic way.
