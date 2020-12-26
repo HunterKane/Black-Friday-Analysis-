@@ -29,6 +29,8 @@ Create a blog post to share your questions and insights with a non-technical aud
 github repository: https://github.com/HunterKane/Udacity---Project-1-Data-Science
 
 
+
+
 # Black Friday Data Analysis
 
 This notebook looks into using various Python-based data scinece libaries to discover patterns and answer important questions about Black Friday.
@@ -86,3 +88,9 @@ __This data anaylsis reveals a few key points a store owner could use for Black 
 2: The most popular items being bought from thier store.
 3: What age group and gender are buying from their store.
 4: The type of customer's jobs that spend money at the store.
+
+
+
+# Blog Post: Black Friday Analysis 
+Power of Data Science 
+website:  https://hunter-kane-sparrow.medium.com/black-friday-analysis-82bd270f1c6d 
