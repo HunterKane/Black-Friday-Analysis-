@@ -2,7 +2,8 @@
 
 ## Project Requirements 
 
-Key Steps for Project
+__Key Steps for Project__
+
 Feel free to be creative with your solutions, but do follow the CRISP-DM process in finding your solutions.
 
 1) Pick a dataset.
@@ -11,7 +12,7 @@ Feel free to be creative with your solutions, but do follow the CRISP-DM process
 
 3) Create a Jupyter Notebook, using any associated packages you'd like, to:
 
-Prepare data:
+__Prepare data:__
 
 Gather necessary data to answer your questions
 Handle categorical and missing data
@@ -19,6 +20,7 @@ Provide insight into the methods you chose and why you chose them
 Analyze, Model, and Visualize
 
 Provide a clear connection between your business questions and how the data answers them.
+
 4) Communicate your business insights:
 
 Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
