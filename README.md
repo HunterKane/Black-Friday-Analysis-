@@ -1,4 +1,4 @@
-# Udacity---Project-1-Data-Science
+# Udacity---Project-1-Data-Science-Blog-Post
 
 ### Table of Contents
 
@@ -40,7 +40,7 @@ There is 1 notebooks available here to showcase work related to the above questi
 
 ## Results<a name="results"></a>
 
-The main finding can be found at the post available
+The main findings can be found at the post available
  [here](https://hunter-kane-sparrow.medium.com/black-friday-analysis-82bd270f1c6d)  
 
 
