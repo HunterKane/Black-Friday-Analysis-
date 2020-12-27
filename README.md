@@ -24,7 +24,7 @@ __Regular EDA(Explanatory Data Analysis) and plotting libraries needed__
 
 For this project, I was interestested in using Black Friday data to better understand:
 
-Black Friday is a major retail shopping event that has a great impact on businesses that participate. For many businesses Black Friday helps produces enough sales to overcome lagging months and return a profit. Analyzing the data can reveal the patterns and trends found during Balck Friday. Which in turn can be used to help business owners prepare better for the shopping event.
+Black Friday is a major retail shopping event that has a great impact on businesses that participate. For many businesses Black Friday helps produce enough sales to overcome lagging months and return a profit. Analyzing the data can reveal the patterns and trends found during Balck Friday. Which in turn can be used to help business owners prepare better for the shopping event.
 
 __We want to know if a store had to prepare for Black Friday this information would be valuable:__
 
